@@ -1,10 +1,14 @@
 
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap');
+
 #root {
   /* max-width: 1280px;
   text-align: center; */
   margin: 0 auto;
   padding: 2rem;
   direction: rtl;
+  font-family: "IBM Plex Sans Arabic", sans-serif;
+  background-color: #1d1d1daa;
 }
 
 .logo {
@@ -40,14 +44,14 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #f9f2f2;
 }
 
-/* .MuiOutlinedInput-notchedOutline {
+.MuiOutlinedInput-notchedOutline {
 	border-color: white !important;
-} */
+}
 
 .MuiSvgIcon-root {
-	color: rgb(156, 151, 151) !important;
+	color: rgb(253, 247, 247) !important;
 }
 
